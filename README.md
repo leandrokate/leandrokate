@@ -34,4 +34,10 @@
 <img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-</div>
+</div><br/><br/>
+
+
+## "Nunca é tarde para começar"
+
+
+<br/><br/>
