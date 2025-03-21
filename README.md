@@ -6,11 +6,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lesouzacunha)
 <br/><br/>
 
-![LeandroKate GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrokate&show_icons=true&theme=tokyonight)
-
-<br/>
-
-
 ### Tecnologias que me especializei em infraestrutura 🌟
 <div style="display: inline_block"><br/>
 <img align="center" alt="Linux" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/>
@@ -40,6 +35,14 @@
 
 
 </div><br/><br/>
+
+### Algumas estatísticas
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrokate&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrokate&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leandrokate&theme=dracula&utcOffset=8)
+
+<br/>
 
 
 ## "Nunca é tarde para começar"
