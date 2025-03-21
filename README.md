@@ -1,4 +1,6 @@
-### Olá! Sou o Leandro de Souza Cunha 🤘<br/><br/>
+![Bem vindos](./github-header-image.png)
+
+### Sou o Leandro de Souza Cunha 🤘<br/><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesouzacunha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lesouzacunha/)
